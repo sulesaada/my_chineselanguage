@@ -1,4 +1,4 @@
-My Chinese App
+My Chinese App (Tan Tan zhongWen)
 
 A modern Flutter-based mobile application designed to help users learn the Chinese language. 
 The app features a clean, professional green-themed user interface with secure authentication screens including :
@@ -20,4 +20,5 @@ Forgot Password Screen
 
 App Logo
 ![logo.jpg](assets/images/logo.jpg)
+
 
