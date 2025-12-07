@@ -1,6 +1,6 @@
-My Chinese App (Tan Tan zhongWen)
+My Chinese App (Tan Tan zhongWen 谈谈中文) literally meaning lets talk about chinese.
 
-A modern Flutter-based mobile application designed to help users learn the Chinese language. 
+A Flutter-based mobile application designed to help users learn the Chinese language. 
 The app features a clean, professional green-themed user interface with secure authentication screens including :
 - Login
 - Registration
@@ -20,5 +20,9 @@ Forgot Password Screen
 
 App Logo
 ![logo.jpg](assets/images/logo.jpg)
+THE LOGO HAS A PANDA WHICH IS A PECULIAR ANIMAL TO THE CHINESE REGION
+ AUTHOR NAME: SULE SAADA OMEGA
+ MATRIC NUMBER: BHU/24/04/05/0130
+
 
 
